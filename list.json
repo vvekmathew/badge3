@@ -1,0 +1,82 @@
+[
+  {
+    "serial number": 1,
+    "name": "toothpaste",
+    "quantity": 2,
+    "unit": "number",
+    "department": "personal hygiene",
+    "notes": "try colgate"
+  },
+  {
+    "serial number": 2,
+    "name": "soap",
+    "quantity": 10,
+    "unit": "number",
+    "department": "personal hygiene",
+    "notes": "try pears soap"
+  },
+  {
+    "serial number": 3,
+    "name": "notebook",
+    "quantity": 15,
+    "unit": "number",
+    "department": "study material",
+    "notes": "get classmates notebook"
+  },
+  {
+    "serial number": 4,
+    "name": "cabbage",
+    "quantity": 2,
+    "unit": "number",
+    "department": "food",
+    "notes": "get small ones"
+  },
+  {
+    "serial number": 5,
+    "name": "white rice",
+    "quantity": 10,
+    "unit": "kg",
+    "department": "food",
+    "notes": "make sure it's good quality"
+  },
+  {
+    "serial number": 6,
+    "name": "sausage",
+    "quantity": 1,
+    "unit": "number",
+    "department": "food",
+    "notes": "buy large pack"
+  },
+  {
+    "serial number": 7,
+    "name": "kerosene",
+    "quantity": 1,
+    "unit": "litre",
+    "department": "fuel",
+    "notes": "buy if available"
+  },
+  {
+    "serial number": 8,
+    "name": "pen",
+    "quantity": 7,
+    "unit": "number",
+    "department": "study material",
+    "notes": "important!! exams are near"
+  },
+  {
+    "serial number": 9,
+    "name": "coconut oil",
+    "quantity": 2,
+    "unit": "litre",
+    "department": "food",
+    "notes": "buy sunflower oil, if not available"
+  },
+  {
+    "serial number": 10,
+    "name": "shampoo",
+    "quantity": 2,
+    "unit": "number",
+    "department": "personal hygiene",
+    "notes": "buy head and shoulders brand"
+  }
+]
